@@ -1,0 +1,13 @@
+"ID";"Bezeichner";"Gehäuse";"Stückzahl";"Bezeichnung";"Anbieter und Referenz";
+1;"RV1,RV2";"Potentiometer_Bourns_3296W_Vertical";2;"100K";;;
+2;"U1";"DIP-18_W7.62mm";1;"ULN2803A";;;
+3;"J3";"PinSocket_2x20_P2.54mm_Vertical";1;"40HAT";;;
+4;"H1,H2,H3,H4";"NPTH_3mm_ID";4;"3mm_Mounting_Hole";;;
+5;"J2,J4";"JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical";2;"Conn_01x05_Male";;;
+6;"J1,J5";"JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical";2;"Conn_01x03_Male";;;
+7;"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11";"LED_Rectangular_W5.0mm_H2.0mm";11;"LED";;;
+8;"RN1";"R_Array_SIP9";1;"1K";;;
+9;"R1,R2,R5";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";3;"1K";;;
+10;"R3,R4";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";2;"150";;;
+11;"U2";"DIP-14_W7.62mm";1;"LM324";;;
+12;"C1";"C_Disc_D5.0mm_W2.5mm_P2.50mm";1;"10nF";;;

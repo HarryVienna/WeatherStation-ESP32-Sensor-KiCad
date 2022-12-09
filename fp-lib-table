@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "DFR0654")(type "KiCad")(uri "${KIPRJMOD}/project_footprints.pretty")(options "")(descr ""))
+  (lib (name "TP4056")(type "KiCad")(uri "${KIPRJMOD}/project_footprints.pretty")(options "")(descr ""))
+  (lib (name "BME280")(type "KiCad")(uri "${KIPRJMOD}/project_footprints.pretty")(options "")(descr ""))
+  (lib (name "D1 Mini ESP32")(type "KiCad")(uri "${KIPRJMOD}/project_footprints.pretty")(options "")(descr ""))
+)

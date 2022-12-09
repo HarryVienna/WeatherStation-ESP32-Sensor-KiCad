@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "DFR0654")(type "KiCad")(uri "${KIPRJMOD}/project_components/DFR0654.kicad_sym")(options "")(descr ""))
+  (lib (name "TP4056")(type "KiCad")(uri "${KIPRJMOD}/project_components/TP4056.kicad_sym")(options "")(descr ""))
+  (lib (name "BME280-Module")(type "KiCad")(uri "${KIPRJMOD}/project_components/BME280-Module.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32_mini")(type "KiCad")(uri "${KIPRJMOD}/project_components/ESP32_mini.kicad_sym")(options "")(descr ""))
+)
